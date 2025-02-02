@@ -1,41 +1,18 @@
-# Welcome to Blood Nexus Studio 🎮🩸
+# 💫 About Me:
+# Welcome to Blood Nexus Studio 🎮🩸<br><br>![Blood Nexus Studio Banner](https://your-image-link.com) <!-- Add your banner image link here --><br><br>## 🚀 About Us<br>We are **Blood Nexus Studio**, a passionate team of developers, designers, and storytellers dedicated to crafting immersive and impactful gaming experiences. Our focus is on creating **engaging, meaningful, and accessible** games that entertain and inspire players worldwide.<br><br>## 🎯 Our Mission<br>- 🧠 **Making Learning Fun** – We build interactive games that promote learning through play.<br>- 🎨 **Immersive Design** – High-quality visuals, smooth animations, and unforgettable characters.<br>- 🔊 **Innovative Speech Therapy Games** – Helping children aged 3-6 develop their communication skills in an engaging way.<br>- 🔒 **Secure & Accessible** – Ensuring HIPAA compliance, data security, and inclusivity for all players.<br><br>## 🛠️ Tech Stack<br>| Technology  | Tools & Frameworks  |<br>|------------|--------------------|<br>| 🎮 Game Engine | **Unity (C#)** |<br>| 🖌️ Art & Animation | **Blender, Adobe Illustrator, Spine** |<br>| 🎤 Voice Recognition | **Google ML Kit, Apple Speech API** |<br>| 📡 Backend | **Firebase, Node.js, MongoDB** |<br>| 🎭 UI/UX | **Figma, Unity UI Toolkit** |<br>| 📱 Platforms | **iOS & Android** |<br>| 🛠 DevOps | **GitHub Actions, Docker** |<br><br>## 📂 Our Projects<br>🚧 **[Speech Therapy Game](https://github.com/BloodNexusStudio/Speech-Therapy-Game)** *(In Development)*<br><br>Stay tuned for more exciting projects! 🎮🔥<br><br>## 🤝 Work With Us<br>🔹 Looking to collaborate or invest in innovative game development? Reach out to us!<br><br>📧 **Contact**: [bloodnexusstudio@gmail.com](mailto:bloodnexusstudio@gmail.com)<br><br>🌍 **Follow Us**:<br>- [Twitter](https://twitter.com/BloodNexusStudio)<br>- [LinkedIn](https://linkedin.com/company/blood-nexus-studio)<br>- [Website](https://your-website.com) *(Coming Soon!)*<br><br>---<br>🚀 *Game On. Innovation Begins Here.* 🎮<br>
 
-![Blood Nexus Studio Banner](https://your-image-link.com) <!-- Add your banner image link here -->
 
-## 🚀 About Us
-We are **Blood Nexus Studio**, a passionate team of developers, designers, and storytellers dedicated to crafting immersive and impactful gaming experiences. Our focus is on creating **engaging, meaningful, and accessible** games that entertain and inspire players worldwide.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhruv&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhruv&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🎯 Our Mission
-- 🧠 **Making Learning Fun** – We build interactive games that promote learning through play.
-- 🎨 **Immersive Design** – High-quality visuals, smooth animations, and unforgettable characters.
-- 🔊 **Innovative Speech Therapy Games** – Helping children aged 3-6 develop their communication skills in an engaging way.
-- 🔒 **Secure & Accessible** – Ensuring HIPAA compliance, data security, and inclusivity for all players.
-
-## 🛠️ Tech Stack
-| Technology  | Tools & Frameworks  |
-|------------|--------------------|
-| 🎮 Game Engine | **Unity (C#)** |
-| 🖌️ Art & Animation | **Blender, Adobe Illustrator, Spine** |
-| 🎤 Voice Recognition | **Google ML Kit, Apple Speech API** |
-| 📡 Backend | **Firebase, Node.js, MongoDB** |
-| 🎭 UI/UX | **Figma, Unity UI Toolkit** |
-| 📱 Platforms | **iOS & Android** |
-| 🛠 DevOps | **GitHub Actions, Docker** |
-
-## 📂 Our Projects
-🚧 **[Speech Therapy Game](https://github.com/BloodNexusStudio/Speech-Therapy-Game)** *(In Development)*
-
-Stay tuned for more exciting projects! 🎮🔥
-
-## 🤝 Work With Us
-🔹 Looking to collaborate or invest in innovative game development? Reach out to us!
-
-📧 **Contact**: [bloodnexusstudio@gmail.com](mailto:bloodnexusstudio@gmail.com)
-
-🌍 **Follow Us**:
-- [Twitter](https://twitter.com/BloodNexusStudio)
-- [LinkedIn](https://linkedin.com/company/blood-nexus-studio)
-- [Website](https://your-website.com) *(Coming Soon!)*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dhruv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-🚀 *Game On. Innovation Begins Here.* 🎮
+[![](https://visitcount.itsvg.in/api?id=dhruv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
